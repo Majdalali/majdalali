@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Majd 👋
 
-<!--
-**Majdalali/majdalali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** from Syria, passionate about the web and always exploring what’s next.  
+I love building modern, performant web applications—especially with JavaScript and frameworks like **Vue**, **Svelte**, and **Next.js**.
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills
+- JavaScript (ES6+)
+- Frontend Frameworks: Vue, Svelte, Next.js
+- Web Development (full stack)
+- Always learning new tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project 
+[fg_payroll](https://github.com/FurqanGrou/fg_payroll)  
+A robust payroll system built for FurqanGrou, blending practicality with clean code.
+
+## 🌎 About Me
+- Syrian by birth, explorer at heart.
+- Constantly keeping up with new technologies.
+- Interested in politics and an avid music enthusiast.
+- Spend way too much time making Spotify playlists.  
+- Dreaming of moving to Alaska one day. ⛰️❄️
+
+## 📫 Find Me Online
+- Personal Website: [majdalali.github.io](https://majdalali.github.io)
+- at majdalali@proton.me
+---
+
+> “The world belongs to those who code, and those who press play.”  
+> — Majd
+> p.s i didnt say that, copilot added by itself?
+
