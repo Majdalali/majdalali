@@ -1,4 +1,4 @@
-# Hi, I’m Majd 👋
+# Hi, I’m Majd 🍁
 
 **Software Engineer** from Syria, passionate about the web and always exploring what’s next.  
 I love building modern, performant web applications—especially with JavaScript and frameworks like **Vue**, **Svelte**, and **Next.js**.
