@@ -1,4 +1,4 @@
-# Hi, I’m Majd 🍁
+# Hi, I’m [Majd](https://majdalali.vercel.app) 🍁
 
 **Software Engineer** from Syria, passionate about the web and always exploring what’s next.  
 I love building modern, performant web applications—especially with JavaScript and frameworks like **Vue**, **Svelte**, and **Next.js**.
@@ -21,7 +21,7 @@ A robust payroll system built for FurqanGrou, blending practicality with clean c
 - Dreaming of moving to Alaska one day. ⛰️❄️
 
 ## 📫 Find Me Online
-- Personal Website: [majdalali.github.io](https://majdalali.github.io)
+- Personal Website: [Click Here](https://majdalali.vercel.app)
 - at majdalali@proton.me
 ---
 
